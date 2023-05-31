@@ -12,7 +12,7 @@
 
 ## Requisitos:
 1. Instale a máquina virtual DBSERVER no VirtualBox (Recomendável)
-2. Video do professor ensinando como instalar (https://www.youtube.com/watch?v=hv1IL9vYkc8&t=192s).
+2. Video do professor ensinando como instalar (https://youtu.be/hv1IL9vYkc8).
 
 ## Utilização:
 
