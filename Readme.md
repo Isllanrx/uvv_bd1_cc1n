@@ -18,7 +18,7 @@
 
 1. Clone este repositório em sua máquina local.
 2. Abra o terminal do seu linux.
-3. Digite o comando `psql -U postgres <cc1n_202307538_postgresql.sql>`no terminal e aperte a tecla ENTER.
+3. Digite o comando `psql -U postgres <cc1n_202307538_postgresql.sql`no terminal e aperte a tecla ENTER.
 4. Logo em seguida digite a senha `computacao@raiz` em sua máquina virtual DBSERVER.
 
 ## Origem:
