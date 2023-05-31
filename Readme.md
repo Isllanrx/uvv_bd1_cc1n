@@ -10,11 +10,16 @@
 3. Link direto do Glitch (https://quixotic-bright-nape.glitch.me/).
 4. Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
 
+## Requisitos:
+1. Instale a máquina virtual DBSERVER no VirtualBox (Recomendável)
+2. Video do professor ensinando como instalar (https://www.youtube.com/watch?v=hv1IL9vYkc8&t=192s).
+
 ## Utilização:
 
 1. Clone este repositório em sua máquina local.
-2. Abra o arquivo `ScriptPsetAtualizado-Isllan` no terminal como mostrado no video.
-3. Realize o comando `psql -U postgres <ScriptPsetAtualizado-Isllan.SQL>`no terminal.
+2. Abra o terminal do seu linux.
+3. Digite o comando `psql -U postgres <ScriptPsetAtualizado-Isllan.SQL>`no terminal e aperte a tecla ENTER.
+4. Logo em seguida digite a senha `computacao@raiz` em sua máquina virtual DBSERVER.
 
 ## Origem:
 
