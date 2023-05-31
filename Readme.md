@@ -1,3 +1,5 @@
+## RESPEITE AS DIRETRIZES DE PLÁGIO DA UNIVERSIDADE DE VILA VELHA!
+
 # PROJETO-PSET-2023:
 
 ## Descrição:
@@ -30,8 +32,6 @@
 ## Licença:
 
 1. Este projeto é licenciado sob a [licença MIT](https://opensource.org/licenses/MIT). Sinta-se à vontade para usá-lo e modificá-lo de acordo com suas necessidades. 
-
-## RESPEITE AS DIRETRIZES DE PLÁGIO DA UNIVERSIDADE DE VILA VELHA!
 
 ## PLAGIO É CRIME:
 
