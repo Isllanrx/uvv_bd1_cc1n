@@ -5,10 +5,10 @@ Este projeto é uma demonstração criado para armazenar as atividades relaciona
 
 ## 
 
--Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site contendo um video mostrando o processo!
--Utilizei um encurtador de link, chamado "Abre.ai" (https://abre.ai/pset2023).
--Link direto do Glitch (https://quixotic-bright-nape.glitch.me/).
--Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
+# Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site contendo um video mostrando o processo!
+# Utilizei um encurtador de link, chamado "Abre.ai" (https://abre.ai/pset2023).
+# Link direto do Glitch (https://quixotic-bright-nape.glitch.me/).
+# Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
 
 ## COMO UTILIZAR:
 
