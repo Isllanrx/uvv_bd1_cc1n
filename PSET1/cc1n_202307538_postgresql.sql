@@ -262,6 +262,11 @@ ALTER TABLE pedidos
 ADD CONSTRAINT verif_status_pedidos
 CHECK (status IN (' CANCELADO ', 'COMPLETO' , 'ABERTO ', 'PAGO' , 'REEMBOLSADO' , 'ENVIADO'));
 
+-- COMANDOS DE CONSTRAINT DE VERIFICACAO SE O VALOR E MAIOR QUE ZERO DOS PRODUTOS;
+ALTER  TABLE lojas.produtos ADD CONSTRAINT lojas_produtos_verifica_preco_unitario CHECK (preco_unitario >= 0);
+
+ALTER  TABLE lojas.pedidos_itens ADD CONSTRAINT lojas_pedidos_itens_verifica_preco_unitario CHECK (preco_unitario >= 0);
+
 -- COMANDO DE CONSTRAINT DE VERIFICACAO DE STATUS DOS ENVIOS;
 ALTER TABLE envios
 ADD CONSTRAINT verif_status_envios
