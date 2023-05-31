@@ -14,7 +14,7 @@
 
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `ScriptPsetAtualizado-Isllan` no terminal como mostrado no video.
-3. Realize o comando 'psql -U postgres <ScriptPsetAtualizado-Isllan.SQL>
+3. Realize o comando "psql -U postgres <ScriptPsetAtualizado-Isllan.SQL>"
 
 ## Origem:
 
