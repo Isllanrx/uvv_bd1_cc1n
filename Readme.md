@@ -10,7 +10,7 @@
 1. Utilizei a plataformar Glitch, link direto!  
 2. Utilizei um encurtador de link, chamado "Abre.ai"!
 3. Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
-4. Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site contendo um video mostrando o processo!     
+4. Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site feito com `HTML|CSS` contendo um video do meu canal do youtube mostrando o processo!     
 5. Link com encurtador: (https://abre.ai/pset2023).
 6. Link sem encurtador: (https://quixotic-bright-nape.glitch.me/).
 
