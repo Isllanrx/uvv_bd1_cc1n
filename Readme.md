@@ -7,10 +7,12 @@
 
 ## 
 
-1. Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site contendo um video mostrando o processo!
-2. Utilizei um encurtador de link, chamado "Abre.ai" (https://abre.ai/pset2023).
-3. Link direto do Glitch (https://quixotic-bright-nape.glitch.me/).
-4. Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
+1. Utilizei a plataformar Glitch, link direto!  
+2. Utilizei um encurtador de link, chamado "Abre.ai"!
+3. Certifique-se de ter um navegador moderno instalado para obter a melhor experiência possível.
+4. Para entender como abrir o arquivo .SQL no terminal, realizei a criação desse site contendo um video mostrando o processo!     
+5. Link com encurtador: (https://abre.ai/pset2023).
+6. Link sem encurtador: (https://quixotic-bright-nape.glitch.me/).
 
 ## Requisitos:
 1. Instale a máquina virtual DBSERVER no VirtualBox (Recomendável)
@@ -25,9 +27,9 @@
 
 ## Origem:
 
-1. UNIVERSIDADE DE VILA VELHA (UVV)
-2. PROFESSOR: Abrantes Araújo Silva Filho
-3. TURMA: CC1N 
+1. TURMA: CC1N  
+2. UNIVERSIDADE DE VILA VELHA (UVV)
+3. PROFESSOR: Abrantes Araújo Silva Filho
 
 ## Licença:
 
